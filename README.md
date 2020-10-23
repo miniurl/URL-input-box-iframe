@@ -6,6 +6,7 @@ Embed Miniurl.id iframe URL input box on your own webpage
   style="" for default border
   style="border:1px solid black;" for black border
   style="border:none;" for without border
+
   DO NOT CHANGE ANYTHING IN THIS EMBED CODE
   (except style attribute)
   So that your url can be shortened correctly
