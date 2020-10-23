@@ -17,5 +17,5 @@ Embed Miniurl.id iframe URL input box on your own webpage
 </iframe>
 ```
 Embed Procedure:
-1. Copy the iframe tag from html code above, from index.html or from [https://miniurl.id/tools/link-click-analytics?ref=github&page=https%3A%2F%2Fgithub.com%2Fminiurl%2FURL-input-box-iframe&redirto=https%3A%2F%2Fminiurl.id%2Fapps.php%3Fref%3Dgithub%23Iframe_URL_Input_Box&event=open_link&message=iframe_url_input_box](https://miniurl.id/tools/link-click-analytics?ref=github&page=https%3A%2F%2Fgithub.com%2Fminiurl%2FURL-input-box-iframe&redirto=https%3A%2F%2Fminiurl.id%2Fapps.php%3Fref%3Dgithub%23Iframe_URL_Input_Box&event=open_link&message=iframe_url_input_box)
+1. Copy the iframe tag from html code above, from index.html or from [https://miniurl.id/](https://miniurl.id/tools/link-click-analytics?ref=github&page=https%3A%2F%2Fgithub.com%2Fminiurl%2FURL-input-box-iframe&redirto=https%3A%2F%2Fminiurl.id%2Fapps.php%3Fref%3Dgithub%23Iframe_URL_Input_Box&event=open_link&message=iframe_url_input_box)
 2. Paste on your webpage code
